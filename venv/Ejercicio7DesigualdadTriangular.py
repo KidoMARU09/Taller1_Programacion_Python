@@ -1,4 +1,6 @@
 def main():
+
+
     a = float(input("Ingrese el lado a: "))
     b = float(input("Ingrese el lado b: "))
     c = float(input("Ingrese el lado c: "))
